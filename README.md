@@ -2,7 +2,7 @@
 
 AI Product Data Extraction System (FastAPI)
 
-📖 Overview
+## 📖 Overview
 
 This project is a lightweight AI-powered system that extracts structured information from unstructured product descriptions. It uses NLP-based regex parsing and rule-based intelligence to simulate real-world data extraction pipelines.
 

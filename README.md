@@ -15,9 +15,9 @@ Eco-friendly classification
 REST API using FastAPI
 
 ## 🧠 Tech Stack
-Python
-FastAPI
-Regex (NLP techniques)
+- Python
+- FastAPI
+- Regex (NLP techniques)
 
 ## 🚀 How to Run
 1. uvicorn main:app --reload
